@@ -56,7 +56,8 @@ docker push "$ecrUrl:$imageTag"
 # 7. Accesed the app via Public IP
 
  - ECS > Cluster > Service > Tasks > Public IP > Open in browser
-![NGINX App Running](nginx-screenshot.png)
+ - 
+![NGINX App Running](nginx.jpg)
 
 
 
